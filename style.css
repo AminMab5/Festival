@@ -1,8 +1,11 @@
 body{
-    text-align: center;
+    text-align:center;
     background-color: antiquewhite;
     margin-top: 50px;
+    
 }
 ul{
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
